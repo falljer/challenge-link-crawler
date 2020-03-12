@@ -1,0 +1,4 @@
+solution/tmp/*
+!solution/tmp/.gitkeep
+.DS_Store
+.idea
